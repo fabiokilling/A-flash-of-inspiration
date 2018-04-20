@@ -70,4 +70,4 @@ except:
     
     easygui.msgbox('滚(ノ｀Д)ノ!')
         
-        
+#MarkDown格式不能直接复制=。=
